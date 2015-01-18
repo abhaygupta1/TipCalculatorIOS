@@ -1,7 +1,7 @@
 # Tip Calculator Demo
 
 
-This is an Android demo application for calculating the tip and total amount
+This is an IOS demo application for calculating the tip and total amount
 Time spent: 1 hours spent in total
 
 Completed user stories:
